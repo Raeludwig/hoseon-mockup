@@ -35,7 +35,6 @@ $ git clone git@github.com:Raeludwig/horseon-mockup.git
 ```
 >Visit at the deployed site [here](https://raeludwig.github.io/hoseon-mockup/) 
 
-Once you have reached the site, click sign up to become a new customer of Moon Dollars, or sign in to order the best tasting coffee around!
 
 
 ## License
