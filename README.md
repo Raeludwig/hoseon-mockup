@@ -30,18 +30,9 @@ To clone and run this application, you'll need VS installed on your computer. Fr
 
 ```bash
 # Clone this repository
-$ git clone git@github.com:Raeludwig/coffee-saver.git
+$ git clone git@github.com:Raeludwig/horseon-mockup.git
 
-# Install dependencies
-$ npm install
-
-# Open mysql
-$ mysql -uroot
-mysql> source db/schema.sql
-mysql> exit 
-
-# Run server
-$ node server.js
+Visit at https://raeludwig.github.io/hoseon-mockup/#social-media-marketing
 
 ```
 Once you have reached the site, click sign up to become a new customer of Moon Dollars, or sign in to order the best tasting coffee around!
