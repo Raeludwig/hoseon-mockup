@@ -13,7 +13,6 @@ Horseon webpage
   <a href="#description">Description</a> •
   <a href="#how-to-use">How To Use</a> •
   <a href="#license">License</a>•
-  <a href="#deployment">Deployment</a>•
   <a href="#examples">Examples</a>
 </p>
 
@@ -32,25 +31,20 @@ To clone and run this application, you'll need VS installed on your computer. Fr
 # Clone this repository
 $ git clone git@github.com:Raeludwig/horseon-mockup.git
 
-Visit at https://raeludwig.github.io/hoseon-mockup/#social-media-marketing
 
 ```
+>Visit at the deployed site [here](https://raeludwig.github.io/hoseon-mockup/) 
+
 Once you have reached the site, click sign up to become a new customer of Moon Dollars, or sign in to order the best tasting coffee around!
 
-> **Note**
-> If you're using Linux Bash for Windows, [see this guide](https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s-bash-shell/) or use `node` from the command prompt.
 
 ## License
 
 MIT
 
 ---
-## Deployment
-https://whispering-garden-84047.herokuapp.com/
+
 
 ## Examples
-![image](https://user-images.githubusercontent.com/118871515/230535862-97b646b0-0233-4bcc-82d4-5ac9f9260dfc.png)
-![image](https://user-images.githubusercontent.com/118871515/230535919-bfb48238-1fcd-48c5-b1ca-b97dfff30e29.png)
-![image](https://user-images.githubusercontent.com/118871515/230536023-71bd853c-3346-4450-abaf-5509e03852c8.png)
-![image](https://user-images.githubusercontent.com/118871515/230536077-a8bfc6e9-5a28-4d3e-97d8-0ac2a47809c1.png)
-
+![image](https://user-images.githubusercontent.com/118871515/231664473-9f10fc69-d9c3-4d95-b2ee-5105bc76f10f.png)
+![image](https://user-images.githubusercontent.com/118871515/231664413-b3b45b4d-44d5-453a-b8ef-5d9ceb5d59ec.png)
