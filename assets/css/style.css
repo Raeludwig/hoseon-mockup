@@ -9,7 +9,7 @@ body {
 }
 
 
-//The following code is for the header and the nav bar
+/*The following code is for the header and the nav bar */ 
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -49,7 +49,7 @@ p {
     font-size: 16px;
 }
 
-//main logo
+/* main logo*/ 
 .hero {
     height: 800px;
     width: 100%;
@@ -60,7 +60,7 @@ p {
 }
 
 
-//used to offset the images in the content sections
+/*used to offset the images in the content sections */ 
 .float-left {
     float: left;
     margin-right: 25px;
@@ -71,7 +71,7 @@ p {
     margin-left: 25px;
 }
 
-//content refers to .search-engine-optimization,.online-reputation-management, .social-media-marketing  
+/*content refers to .search-engine-optimization,.online-reputation-management, .social-media-marketing   */ 
 .content {
     width: 75%;
     display: inline-block;
@@ -98,7 +98,7 @@ p {
     font-size: 36px;
 }
 
-//These are the benefits in a column on the right side of the screen
+/*These are the benefits in a column on the right side of the screen */ 
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -128,7 +128,7 @@ p {
 }
 
 
-//This is the footer
+/*This is the footer */ 
 .footer {
     padding: 30px;
     clear: both;
